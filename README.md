@@ -131,4 +131,4 @@ The tool generates a ZIP archive containing:
 
 ## Citation
 
-Please cite AlphaCross-XL's latest manuscript [Citation pending]
+Please cite AlphaCross-XL's latest manuscript : https://www.biorxiv.org/content/10.1101/2025.01.21.633663v1
