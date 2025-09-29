@@ -131,4 +131,4 @@ The tool generates a ZIP archive containing:
 
 ## Citation
 
-Please cite AlphaCross-XL's latest manuscript : https://www.biorxiv.org/content/10.1101/2025.01.21.633663v1
+Please cite AlphaCross-XL's latest manuscript : Sanjyot Vinayak Shenoy, Deeptarup Biswas, Arthur Zalevsky, Audrey Kishishita, Ayushi Verma, Ishan Upadhay, Yi He, Andrej Sali, Rosa Viner, Kamal Mandal, Sanjeeva Srivastava, Arun P. Wiita,_'AlphaCross-XL: A Seamless Tool for Automated and Proteome-Scale Mapping of Cross-Linked Peptides Onto 3D Protein Structures'_, **Molecular & Cellular Proteomics**, Volume 24, Issue 10, 2025, https://doi.org/10.1016/j.mcpro.2025.101057.
